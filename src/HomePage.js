@@ -5,7 +5,7 @@ export default function HomePage() {
    return(
     // <div>HomePage</div>
     // <div>
-    <LoginComp name='Submit'/>
+    <LoginComp name='Submitgit'/>
     // </div>
    )
 }
