@@ -1,14 +1,13 @@
-import logo from './logo.svg';
-import './App.css';
-import HomePage from './HomePage';
+// import logo from './logo.svg';
+// import './App.css';
+import ExamplePage from './ExamplePage/ExamplePage';
 // making component - return home page
 
 function App(){ // java script function
   return(
     // jsx : java script xmel tag
     <div>
-    <h1>Hi LALAN!......  ..</h1>
-    <HomePage/>
+    <ExamplePage/>
     </div>
   );
 }
