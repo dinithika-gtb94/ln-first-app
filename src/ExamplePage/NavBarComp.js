@@ -24,7 +24,7 @@ export default function NavBarComp() {
                   <a className="nav-link disabled" >Pricing</a>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link disabled">Disabled</a>
+                  <a className="nav-link disabled">Disabled</a> 
                 </li>
               </ul>
             </div>
